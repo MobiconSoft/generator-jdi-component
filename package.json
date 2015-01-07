@@ -1,7 +1,7 @@
 {
   "name": "generator-jdi-component",
-  "version": "0.0.10",
-  "description": "Yeoman generator",
+  "version": "0.0.1",
+  "description": "Yeoman generator with Johnpapa AngularJS Style Guide with generator-ng-component v0.0.10",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "mobiconsoft/generator-jdi-component",
