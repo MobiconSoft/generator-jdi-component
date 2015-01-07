@@ -1,0 +1,9 @@
+Description:
+    Generators for AngularJS components
+
+Available Generators:
+    yo jdi-component:route [name]
+    yo jdi-component:directive [name]
+    yo jdi-component:service [name]
+    yo jdi-component:factory [name]
+    yo jdi-component:filter [name]

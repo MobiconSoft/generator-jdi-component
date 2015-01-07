@@ -1,0 +1,43 @@
+{
+  "name": "generator-jdi-component",
+  "version": "0.0.10",
+  "description": "Yeoman generator",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "mobiconsoft/generator-jdi-component",
+  "author": {
+    "name": "Tyler Henkel",
+    "email": "",
+    "url": "https://github.com/DaftMonk"
+  },
+  "modifier": {
+    "name": "Peter Yun",
+    "email": "",
+    "url": "https://github.com/mobiconsoft"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.17.0",
+    "chalk": "~0.4.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "grunt": "^0.4.4",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.10.2",
+    "grunt-release": "^0.7.0",
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}
